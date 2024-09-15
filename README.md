@@ -22,3 +22,5 @@ Documenting your functions is important for both yourself rereading your code an
 
 ## Task
 The purpose of this week's task is to get you used to defining functions in your cpp file, using Alt+enter. I have defined functions in MathFunctions.h and your task is to define them in MathFunctions.cpp. I recommend making more functions in the header file when you are done so that you also get o practice making the declarations.
+
+P.S. It is very bad practice to have a variable defined in the header file like i did unless: it is declared constant or is a global variable for an object
